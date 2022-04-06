@@ -1,17 +1,17 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = "it's task_manager"
+description = "it's task manager"
 authors = ["mrJonson <mr.Jonson@mail.ru>"]
+repository = "https://github.com/mrjonsonDD/python-project-lvl4"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-Django = "^4.0.3"
+gunicorn = "^20.1.0"
 heroku = "^0.1.4"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^4.0.1"
-pytest-cov = "^3.0.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

@@ -1,0 +1,28 @@
+__pycache__/
+.pycache
+.pytest_cache
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.egg-info
+
+# Distribution / packaging
+.vscode
+dist/
+.dist
+env/
+.env
+venv/
+.venv
+coverage.xml
+.coverage
+setup.cfg
+.idea
+tests/hexlet test/
+db.sqlite3
+db.lite3
+task_manager/static/task_manager
+lol
+.log/
+my.log
+*.log
+.vim
