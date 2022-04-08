@@ -9,6 +9,7 @@ repository = "https://github.com/mrjonsonDD/python-project-lvl4"
 python = "^3.8"
 gunicorn = "^20.1.0"
 heroku = "^0.1.4"
+python-dotenv = "^0.20.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^4.0.1"
